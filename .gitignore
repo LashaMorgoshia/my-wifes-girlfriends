@@ -1,0 +1,21 @@
+# Downloaded videos and partial downloads
+*.mp4
+*.mp4.part
+*.part
+სეზონი */
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
